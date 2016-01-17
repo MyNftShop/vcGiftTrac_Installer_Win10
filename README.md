@@ -1,6 +1,6 @@
 #vcGiftTrac_Installer_Win10 
 
-##The basic steps to create the installer were: 
+The basic steps to create the installer were: 
 
 1. After building the release version use windeployqt (a static build is not necessary)
 
@@ -11,7 +11,7 @@ C:\Users\chris\Documents\develop-design\qtprojects\build-vcGiftTrac-Desktop_Qt_5
   icuin53.dll
   icuuc53.dll
   libgcc_s_dw2-1.dll
-  libstdc+–6.dll
+  libstdc+â€“6.dll
   libwinpthread-1.dll
 
 3. Create the relevant folders and files for the Installer e.g. config.xml and package.xml as required by the Qt Installer Framework and copy the content of the release folder into the packages/data-subfolder
