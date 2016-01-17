@@ -1,0 +1,20 @@
+<Installer>
+        <Name>vcGiftTrac v0.2.1 Installer</Name>
+        <Version>1.0</Version>
+        <Title>vcGiftTrac v0.2.1</Title>
+        <Publisher>vc-devel</Publisher>
+	<StartMenuDir>vcGiftTrac</StartMenuDir>
+        <ProductUrl>https://github.com/vc-devel/vcGiftTrac</ProductUrl>
+        <TargetDir>@HomeDir@/vcGiftTrac</TargetDir>
+        <InstallerApplicationIcon>vcGiftTrac</InstallerApplicationIcon>
+        <InstallerWindowIcon>vcGiftTrac</InstallerWindowIcon>
+		<WizardStyle>Aero</WizardStyle>
+
+	<!--
+        <AllowSpaceInPath>true</AllowSpaceInPath>
+        <InstallerApplicationIcon>xyz</InstallerApplicationIcon>
+        <InstallerWindowIcon>xyz123</InstallerWindowIcon>
+        <Watermark>modern-wizard.bmp</Watermark>
+        <WizardStyle>Aero</WizardStyle>
+//-->
+</Installer>
